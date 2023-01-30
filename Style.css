@@ -1,0 +1,1069 @@
+/*******************################ body ################*******************/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+section {
+    overflow: hidden;
+}
+
+/*******************################ header ################*******************/
+
+#header {
+    background-color: rgb(28 28 28 / 90%);
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
+
+#nav-1 {
+    padding-right: 5rem;
+}
+
+.nav-item {
+    font-weight: 600;
+    font-size: 16px;
+    font-family: inherit;
+    margin-top: 1px;
+}
+
+.nav-link {
+    position: relative;
+    padding: 7px;
+    margin-left: 20px;
+}
+
+.nav-link::after {
+    height: 0.17rem;
+    background-color: #ffffff;
+    position: absolute;
+    top: 90%;
+    left: 0.5rem;
+    width: 0%;
+    content: '';
+    transition: all 0.4s linear;
+}
+
+.nav-link:hover::after {
+    width: 60%;
+}
+
+.nav-item-contact {
+    font-weight: 600;
+    font-size: 16px;
+    font-family: inherit;
+}
+
+.navbar-toggler {
+    color: #fff;
+}
+
+#nav-2 {
+    padding-left: 6rem;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+
+/********************################ header is complete ################********************/
+/* ******************################ section-1 ################*******************/
+
+
+#section-1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(/Port-pic/my-pic2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 650px;
+}
+
+.section-1-div-1 h1 {
+    font-size: 4rem;
+    text-align: center;
+    margin-left: 0px;
+    color: white;
+    margin-top: 240px;
+}
+
+.section-1-div-2 h1 {
+    color: white;
+    font-size: 33px;
+    margin-left: 593px;
+    height: 45px;
+    margin-top: 37px;
+    width: 0ch;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: text 2s steps(13) infinite alternate;
+    border-right: 4px solid white;
+}
+
+@keyframes cursor {
+
+    0%,
+    100% {
+        border-color: #f4efef;
+    }
+}
+
+@keyframes text {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 12.6ch;
+    }
+}
+
+
+/*******************################ section-1 is complete ################*******************/
+/*******************################ section-2 ################*******************/
+
+
+#section-2 {
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+#section-2-div-1 {
+    padding-left: 85px;
+    padding-top: 54px;
+    font-size: 18px;
+    margin-bottom: 50px;
+    box-shadow: 0px 2px 2px 0px;
+    background-color: #fff;
+}
+
+.about-info {
+    margin-top: 25px;
+}
+
+.progress-bar-animated {
+    animation: 1s linear infinite progress-bar-stripes;
+}
+
+.section-2-pull {
+    margin: 20px;
+}
+
+.section-2-p {
+    font-size: 18px !important;
+    font-weight: 300;
+}
+
+
+/*******************################ section-2 is complete ################*******************/
+/*******************################ section-3 ################*******************/
+
+
+#section-3 {
+    height: 190vh;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+.title-a-1 {
+    margin-top: 90px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.line-mf {
+    width: 65px;
+    height: 4px;
+    background-color: #0078ff;
+    margin: 0 auto;
+}
+
+.section-3-box-1 {
+    border-radius: 25px;
+}
+
+.section-3-box-1-h2 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.card-text {
+    font-size: 15px;
+    text-align: center;
+}
+
+.row-1 {
+    transition: all .3s;
+}
+
+.row-1:hover {
+    transform: translateY(-8px);
+}
+
+.row-2 {
+    padding-left: 20px;
+    transition: all .3s;
+}
+
+.row-2:hover {
+    transform: translateY(-8px);
+}
+
+.row-3 {
+    padding-left: 27px;
+    transition: all .3s;
+}
+
+.row-3:hover {
+    transform: translateY(-8px);
+}
+
+.row-4 {
+    padding-left: 10px;
+    margin-top: 30px;
+    transition: all .3s;
+}
+
+.row-4:hover {
+    transform: translateY(-8px);
+}
+
+.row-5 {
+    padding-left: 20px;
+    margin-top: 30px;
+    transition: all .3s;
+}
+
+.row-5:hover {
+    transform: translateY(-8px);
+}
+
+.row-6 {
+    padding-left: 27px;
+    margin-top: 30px;
+    transition: all .3s;
+}
+
+.row-6:hover {
+    transform: translateY(-8px); 
+}
+
+#section-3-i {
+    margin-top: 28px;
+    font-size: 45px;
+}
+
+.same-card-box {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #cfcfcf, 5px 5px 5px;
+}
+
+.same-card-box:hover .ico-circle {
+    color: #ffffff;
+    background-color: #0078ff;
+    transition: all 500ms ease 0s;
+    box-shadow: rgb(205 225 248) 0px 0px 0px 10px;
+}
+
+.ico-circle {
+    height: 100px;
+    width: 100px;
+    font-size: 2rem;
+    border-radius: 50%;
+    line-height: 1.55;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 0 0 10px #0078ff;
+    display: block;
+}
+
+#section-3-box-5 {
+    margin-top: 40px;
+}
+
+#section-3-box-5-1 {
+    padding-top: 15px;
+    margin-top: 10px;
+    font-size: 45px;
+}
+
+
+
+/*******************################ section-3 is complete ################*******************/
+/*******************################ section-4 ################*******************/
+
+
+#section-4 {
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(rgba(30, 106, 248, 0.8), rgba(33, 150, 243, 0.5)), url(/Port-pic/pic-3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*******************################ circle-1 ################*******************/
+
+.section-4-div-1 {
+    text-align: center;
+    padding-top: 8rem;
+    float: left;
+}
+
+.section-4-div-1 i {
+    font-size: 25px;
+    padding: 19px 20px;
+    border: 12px solid #cde1f8;
+    border-radius: 80px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.section-4-div-1-h3 {
+    color: white;
+    font-size: 35px;
+    margin-bottom: 6px;
+    margin-top: -12px;
+    font-weight: 600;
+} 
+
+.section-4-div-1 p {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+/*******************################ circle-2 ################*******************/
+
+.section-4-div-2 {
+    text-align: center;
+    padding-top: 8rem;
+    float: left;
+    margin-left: 9rem;
+}
+
+.section-4-div-2 i {
+    font-size: 25px;
+    padding: 20px 24px;
+    border: 12px solid #cde1f8;
+    border-radius: 80px;
+    color: white;
+}
+
+.section-4-div-2-h3 {
+    font-size: 35px;
+    color: white;
+    margin-top: 13px;
+}
+
+.section-4-div-2 p {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+/*******************################ circle-3 ################*******************/
+
+.section-4-div-3 {
+    text-align: center;
+    padding-top: 8rem;
+    float: left;
+    margin-left: 9rem;
+}
+
+.section-4-div-3 i {
+    font-size: 25px;
+    padding: 20px 18px;
+    border: 12px solid #cde1f8;
+    border-radius: 80px;
+    color: white;
+}
+
+.section-4-h3 {
+    margin-left: -356px;
+}
+
+.section-4-div-3-h3 {
+    font-size: 35px;
+    color: white;
+    margin-top: 13px;
+}
+
+.section-4-div-3 p {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+/*******************################ circle-4 ################*******************/
+
+.section-4-div-4 {
+    text-align: center;
+    padding-top: 8rem;
+    float: left;
+    margin-left: 10rem;
+}
+
+.section-4-div-4 i {
+    font-size: 25px;
+    padding: 20px 24px;
+    border: 12px solid #cde1f8;
+    border-radius: 80px;
+    color: white;
+}
+
+.section-4-div-4-h3 {
+    font-size: 35px;
+    color: white;
+    margin-top: 13px;
+}
+
+.section-4-div-4 p {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+/*******************################ section-4 is complete ################*******************/
+/*******************################ section-5 ################*******************/
+
+
+#section-5 {
+    width: 100%;
+    height: 970px;
+    background-color: #f6f6f6;
+}
+
+.section-5-div-1 {
+    text-align: center;
+    padding-top: 3.25rem;
+}
+
+.section-5-div-1 h1 {
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.section-5-div-1 p {
+    position: relative;
+    color: #4e4e4e;
+}
+
+#section-5-6 {
+    color: #ddd;
+}
+
+.section-5-div-1 p:before {
+    content: "";
+    left: 49%;
+    top: 170%;
+    width: 3%;
+    height: 5px;
+    position: absolute;
+    background-color: #0078ff;
+}
+
+/*******************################ card-1 ################*******************/
+
+.card {
+    width: 21rem;
+}
+
+.section-5-div-2 {
+    float: left;
+    margin-top: 3.25rem;
+    box-shadow: 0px 3px 4px rgba(134, 134, 134, 0.4);
+    border-radius: 10px;
+}
+
+.card-1-left-1 {
+    float: left;
+    padding-top: 1rem;
+}
+
+.card-1-left-1 p {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0177ff;
+    display: inline-flex;
+}
+
+.card-1-left-1 span {
+    font-size: 13px;
+    color: #4e4e4e;
+}
+
+.card-1-right-1 {
+    float: right;
+    font-size: 3rem;
+    color: #0177ff;
+    padding-top: 15px;
+}
+
+.card-1-img {
+    overflow: hidden;
+    height: auto;
+}
+
+.card-1-img img {
+    transition: transform 1s;
+}
+
+.card-1-img:hover img {
+    transform: scale(1.4);
+}
+
+/*******************################ card-2 ################*******************/
+
+.card {
+    width: 21rem;
+}
+
+.section-5-div-3 {
+    float: left;
+    margin-left: 2rem;
+    margin-top: 3.25rem;
+    box-shadow: 0px 3px 4px rgba(134, 134, 134, 0.4);
+    border-radius: 10px;
+}
+
+.card-2-left-1 {
+    float: left;
+    padding-top: 1rem;
+}
+
+.card-2-left-1 p {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0177ff;
+    display: inline-flex;
+}
+
+.card-2-left-1 span {
+    font-size: 13px;
+    color: #4e4e4e;
+}
+
+.card-2-right-1 {
+    float: right;
+    font-size: 3rem;
+    color: #0177ff;
+    padding-top: 15px;
+}
+
+.card-2-img {
+    height: auto;
+    overflow: hidden;
+}
+
+.card-2-img img {
+    transition: transform 1s;
+}
+
+.card-2-img:hover img {
+    transform: scale(1.4);
+}
+
+/*******************################ card-3 ################*******************/
+
+.card {
+    width: 21rem;
+}
+
+.section-5-div-4 {
+    float: left;
+    margin-left: 2rem;
+    margin-top: 3.25rem;
+    box-shadow: 0px 3px 4px rgba(134, 134, 134, 0.4);
+    border-radius: 10px;
+}
+
+.card-3-left-1 {
+    float: left;
+    padding-top: 1rem;
+}
+
+.card-3-left-1 p {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0177ff;
+    display: inline-flex;
+}
+
+.card-3-left-1 span {
+    font-size: 13px;
+    color: #4e4e4e;
+}
+
+.card-3-right-1 {
+    float: right;
+    font-size: 3rem;
+    color: #0177ff;
+    padding-top: 15px;
+}
+
+.card-3-img {
+    height: auto;
+    overflow: hidden;
+}
+
+.card-3-img img {
+    transition: transform 1s;
+}
+
+.card-3-img:hover img {
+    transform: scale(1.4);
+}
+
+/*******************################ card-4 ################*******************/
+
+.card {
+    width: 21rem;
+}
+
+.section-5-div-5 {
+    float: left;
+    margin-top: 2rem;
+    box-shadow: 0px 3px 4px rgba(134, 134, 134, 0.4);
+    border-radius: 10px;
+}
+
+.card-4-left-1 {
+    float: left;
+    padding-top: 1rem;
+}
+
+.card-4-left-1 p {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0177ff;
+    display: inline-flex;
+}
+
+.card-4-left-1 span {
+    font-size: 13px;
+    color: #4e4e4e;
+}
+
+.card-4-right-1 {
+    float: right;
+    font-size: 3rem;
+    color: #0177ff;
+    padding-top: 15px;
+}
+
+.card-4-img {
+    height: auto;
+    overflow: hidden;
+}
+
+.card-4-img img {
+    transition: transform 1s;
+}
+
+.card-4-img:hover img {
+    transform: scale(1.4);
+}
+
+/*******************################ card-5 ################*******************/
+
+.card {
+    width: 21rem;
+}
+
+.section-5-div-6 {
+    float: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    box-shadow: 0px 3px 4px rgba(134, 134, 134, 0.4);
+    border-radius: 10px;
+}
+
+.card-5-left-1 {
+    float: left;
+    padding-top: 1rem;
+}
+
+.card-5-left-1 p {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0177ff;
+    display: inline-flex;
+}
+
+.card-5-left-1 span {
+    font-size: 13px;
+    color: #4e4e4e;
+}
+
+.card-5-right-1 {
+    float: right;
+    font-size: 3rem;
+    color: #0177ff;
+    padding-top: 15px;
+}
+
+.card-5-img {
+    height: auto;
+    overflow: hidden;
+}
+
+.card-5-img img {
+    transition: transform 1s;
+}
+
+.card-5-img:hover img {
+    transform: scale(1.4);
+}
+
+/*******************################ card-5 ################*******************/
+
+.section-5-div-7 {
+    float: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    box-shadow: 0px 3px 4px rgba(134, 134, 134, 0.4);
+    border-radius: 10px;
+}
+
+.card-6-left-1 {
+    float: left;
+    padding-top: 1rem;
+}
+
+.card-6-left-1 p {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0177ff;
+    display: inline-flex;
+}
+
+.card-6-left-1 span {
+    font-size: 13px;
+    color: #4e4e4e;
+}
+
+.card-6-right-1 {
+    float: right;
+    font-size: 3rem;
+    color: #0177ff;
+    padding-top: 15px;
+}
+
+#section-5-plus {
+    font-size: 23px;
+    border: #0177ff solid 2px;
+    border-radius: 24px;
+    padding: 8px;
+}
+
+.card-6-img {
+    height: auto;
+    overflow: hidden;
+}
+
+.card-6-img img {
+    transition: transform 1s;
+}
+
+.card-6-img:hover img {
+    transform: scale(1.4);
+}
+
+
+/*******************################ section-5 is complete ################*******************/
+/*******************################ section-6 ################*******************/
+
+
+#section-6 {
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(rgba(30, 106, 248, 0.8), rgba(33, 150, 243, 0.5)), url(/Port-pic/pic-10.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/*******************################ Img-1 ################*******************/
+
+.section-6-div-1 {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.section-6-div-1 img {
+    height: 150px;
+    width: 150px;
+    border-radius: 158px;
+}
+
+.section-6-div-1 h4 {
+    font-size: 30px;
+    color: white;
+}
+
+.section-6-div-1 p {
+    font-size: 15px;
+    color: white;
+}
+
+/*******************################ Img-2 ################*******************/
+
+.section-6-div-2 {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.section-6-div-2 img {
+    height: 150px;
+    width: 150px;
+    border-radius: 158px;
+}
+
+.section-6-div-2 h4 {
+    font-size: 30px;
+    color: white;
+}
+
+.section-6-div-2 p {
+    font-size: 15px;
+    color: white;
+}
+
+#button-i-1 {
+    margin-top: 428px;
+    padding-left: 1120px;
+}
+
+#button-i-2 {
+    margin-top: 428px;
+    margin-left: -1120px;
+}
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    line-height: 1.33;
+}
+
+.btn-circle {
+    width: 14px;
+    height: 2px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    border: rgb(255, 255, 255) solid 1px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 0px;
+    line-height: 1.42857;
+}
+
+
+/*******************################ section-6 is complete ################*******************/
+/*******************################ section-7 ################*******************/
+
+
+#section-7 {
+    height: 135vh;
+    width: 100%;
+    background-color: #f6f6f6;
+}
+
+.title-blog {
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.post-date {
+    padding-left: 233px;
+}
+
+.card-category {
+    padding-left: 92px;
+    padding-bottom: 21px;
+}
+
+.section-7-h5-1 {
+    font-weight: bold;
+}
+
+.section-7-h5-1 :hover {
+    color: #0078ff;
+}
+
+#section-7-card-1 {
+    transition: all .2s;
+}
+
+#section-7-card-1:hover {
+    transform: translatex(12px);
+}
+
+
+/******************* section-7 is complete *******************/
+/******************* section-8 *******************/
+
+
+#section-8 {
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(rgba(9, 111, 227, 0.551), rgba(2, 92, 217, 0.8)), url(/Port-pic/pic-10.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.box-shadow-full {
+    padding: 4rem 1.25rem;
+    margin-top: 130px;
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 3rem;
+    z-index: 0;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 6%), 0 2px 5px 0 rgb(0 0 0 / 20%);
+}
+
+.title-left-1 {
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+
+.php-email-form button[type=submit] {
+    background: #0078ff;
+    border: 0;
+    padding: 10px 24px;
+    margin-top: 30px;
+    color: #fff;
+    font-size: 20px;
+    transition: 0.4s;
+    border-radius: 37px;
+}
+
+.button-content {
+    margin-top: 2rem;
+}
+
+.button-content a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 22px;
+    background-color: #0177ff;
+    border: 5px solid #0177ff;
+    border-radius: 60px;
+    font-size: 18px;
+    margin-left: 12rem;
+}
+
+.button-content a:hover{
+    border: 4px solid #b1c5e7;
+    transition: all 0.3s linear;
+    background-color: #0177ff;
+}
+
+.php-email-form button {
+    transition: all .3s;
+}
+
+.php-email-form button:hover {
+    transform: translateY(-8px);
+}
+
+/******************* social *******************/
+
+.social-ul {
+    display: flex;
+    position: absolute;
+    top: 90%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+}
+
+.social-1 {
+    list-style: none;
+}
+
+.social-1 a {
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 80px;
+    font-size: 35px;
+    margin: 0 10px;
+    display: block;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    border: 3px solid #fff;
+    z-index: 1;
+}
+
+.social-1 a .icon {
+    position: relative;
+    color: #262626;
+    transition: .5s;
+    z-index: 3;
+}
+
+.social-1 a:hover .icon {
+    color: #fff;
+    transform: rotateY(360deg);
+}
+
+.social-1 a:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #f00;
+    transition: .5s;
+    z-index: 2;
+}
+
+.social-1 a:hover:before {
+    top: 0;
+}
+
+.social-1:nth-child(1) a:before {
+    background: #3359a9;
+}
+
+.social-1:nth-child(2) a:before {
+    background: #c84475;
+}
+
+.social-1:nth-child(3) a:before {
+    background: #167eb6;
+}
+
+.social-1:nth-child(4) a:before {
+    background: #0a54b4;
+}
+
+/*******************################ section-8 is complete ################*******************/
+/*******************################ footer ################*******************/
+
+#footer {
+    height: 100px;
+    width: 100%;
+    background-color: #0077ff;
+}
+
+.footer-p-1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #ddd;
+}
+
+.footer-p-2 {
+    text-align: center;
+    color: #ddd;
+}
+
+/*******************################ footer is complete ################*******************/
+
+/*******************################ body is complete ################*******************/

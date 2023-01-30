@@ -1,0 +1,889 @@
+@media (min-width: 375px) and (max-width: 667px) {
+
+
+  #nav-2 {
+    padding-left: 1rem !important;
+  }
+
+  #section-1 {
+    height: 55rem !important;
+    background-position: bottom !important;
+  }
+
+  .section-1-div-2 h1 {
+    margin-left: 13vh !important;
+  }
+
+  .img-fluid {
+    width: 10rem !important;
+  }
+
+  #section-2-div-1 {
+    padding-left: 20px !important;
+  }
+
+  .col-md-4 {
+    padding-left: 10px !important;
+    margin-top: 1rem !important;
+  }
+
+  #section-3 {
+    height: 425vh !important;
+  }
+
+  .same-card-box {
+    width: 21rem !important;
+  }
+
+  .row-1 {
+    padding-left: 1rem !important;
+  }
+
+  .row-2 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-3 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-4 {
+    padding-left: 1rem !important;
+  }
+
+  .row-5 {
+    padding-left: 1rem !important;
+  }
+
+  .row-6 {
+    padding-left: 1rem !important;
+  }
+
+  #section-4 {
+    height: 70rem !important;
+  }
+
+  .section-4-div-1 {
+    padding-top: 5rem !important;
+    margin-top: 2rem !important;
+    padding-left: 13vh !important;
+  }
+
+  .section-4-div-2 {
+    margin-top: -6rem !important;
+    margin-left: 5rem !important;
+  }
+
+  .section-4-div-3 {
+    padding-top: 2rem !important;
+    margin-left: 17vh !important;
+  }
+
+  .section-4-div-4 {
+    margin-top: -5rem !important;
+    margin-left: 18vh !important;
+  }
+
+
+  #section-5 {
+    height: 155rem !important;
+  }
+
+  .div-port-1 {
+    padding-left: 1vh !important;
+  }
+
+  .div-port-2 {
+    margin-left: -22px !important;
+  }
+
+  .div-port-3 {
+    margin-left: -22px !important;
+  }
+
+  .div-port-4 {
+    padding-left: 1vh !important;
+  }
+
+  .div-port-5 {
+    margin-left: -22px !important;
+  }
+
+  .div-port-6 {
+    margin-left: -22px !important;
+  }
+
+  #button-i-1 {
+    margin-top: 428px !important;
+    padding-left: 18rem !important;
+  }
+
+  #button-i-2 {
+    margin-top: 428px !important;
+    margin-left: -18rem !important;
+  }
+
+  #section-7 {
+    height: 285vh !important;
+  }
+
+  #section-7-card-1 {
+    padding-left: 20px !important;
+  }
+
+  #footer {
+    height: 100px !important;
+    margin-bottom: 0rem !important;
+  }
+
+  #section-8 {
+    height: 82rem !important;
+  }
+
+  .social-ul {
+    top: 95% !important;
+    left: 46% !important;
+  }
+
+  #contact {
+    height: 70rem !important;
+  }
+}
+
+
+@media (min-width: 414px) and (max-width: 896px) {
+
+  #nav-2 {
+    padding-left: 1rem !important;
+  }
+
+  #section-1 {
+    height: 55rem !important;
+    background-position: bottom !important;
+  }
+
+  .section-1-div-1 h1 {
+    font-size: 3rem !important;
+    margin-top: 29rem !important;
+  }
+
+  .section-1-div-2 h1 {
+    margin-left: 7rem !important;
+  }
+
+  .img-fluid {
+    width: 10rem !important;
+  }
+
+  #section-2-div-1 {
+    padding-left: 20px !important;
+  }
+
+  #section-3 {
+    height: 315vh !important;
+  }
+
+  .row-1 {
+    padding-left: 2rem !important;
+  }
+
+  .row-2 {
+    padding-left: 2rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-3 {
+    padding-left: 2rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-4 {
+    padding-left: 2rem !important;
+  }
+
+  .row-5 {
+    padding-left: 2rem !important;
+  }
+
+  .row-6 {
+    padding-left: 2rem !important;
+  }
+
+  #section-4 {
+    height: 70rem !important;
+  }
+
+  .section-4-div-1 {
+    padding-top: 5rem !important;
+    margin-top: 2rem !important;
+    padding-left: 13vh !important;
+  }
+
+  .section-4-div-2 {
+    margin-top: -6rem !important;
+    margin-left: 7rem !important;
+  }
+
+  .section-4-div-3 {
+    padding-top: 2rem !important;
+    margin-left: 16vh !important;
+  }
+
+  .section-4-div-4 {
+    margin-top: -5rem !important;
+    margin-left: 9rem !important;
+  }
+
+
+  #section-5 {
+    height: 155rem !important;
+  }
+
+  .div-port-1 {
+    padding-left: 2vh !important;
+  }
+
+  .div-port-2 {
+    padding-left: 19px !important;
+  }
+
+  .div-port-3 {
+    padding-left: 2vh !important;
+  }
+
+  .div-port-4 {
+    padding-left: 3vh !important;
+  }
+
+  .div-port-5 {
+    padding-left: 2vh !important;
+  }
+
+  .div-port-6 {
+    padding-left: 2vh !important;
+  }
+
+  .section-5-div-4 {
+    margin-top: 2.25rem !important;
+  }
+
+  #button-i-1 {
+    margin-top: 428px !important;
+    padding-left: 20rem !important;
+  }
+
+  #button-i-2 {
+    margin-top: 428px !important;
+    margin-left: -20rem !important;
+  }
+
+  #section-7-card-1 {
+    padding-left: 40px !important;
+    margin-top: 1rem !important;
+  }
+
+  #section-7 {
+    height: 215vh !important;
+  }
+
+  #section-8 {
+    height: 75rem !important;
+  }
+
+  .social-ul {
+    top: 90% !important;
+    left: 45% !important;
+  }
+}
+
+
+@media (min-width: 390px) and (max-width: 844px) {
+
+  #nav-2 {
+    padding-left: 1rem !important;
+  }
+
+  #section-1 {
+    height: 55rem !important;
+    background-position: bottom !important;
+  }
+
+  .section-1-div-1 h1 {
+    font-size: 3rem !important;
+    margin-top: 29rem !important;
+  }
+
+  .section-1-div-2 h1 {
+    margin-left: 7rem !important;
+  }
+
+  .img-fluid {
+    width: 10rem !important;
+  }
+
+  #section-2-div-1 {
+    padding-left: 20px !important;
+  }
+
+  #section-3 {
+    height: 340vh !important;
+  }
+
+  .row-1 {
+    padding-left: 1rem !important;
+  }
+
+  .row-2 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-3 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-4 {
+    padding-left: 1rem !important;
+  }
+
+  .row-5 {
+    padding-left: 1rem !important;
+  }
+
+  .row-6 {
+    padding-left: 1rem !important;
+  }
+
+  .same-card-box {
+    width: 22rem !important;
+  }
+
+  #section-4 {
+    height: 72rem !important;
+  }
+
+  .section-4-div-1 {
+    padding-top: 5rem !important;
+    margin-top: 2rem !important;
+    padding-left: 12vh !important;
+  }
+
+  .section-4-div-2 {
+    padding-top: 3rem !important;
+    margin-top: 0rem !important;
+    margin-left: 11vh !important;
+  }
+
+  .section-4-div-3 {
+    padding-top: 3rem !important;
+    margin-left: 15vh !important;
+  }
+
+  .section-4-div-4 {
+    padding-top: 2rem !important;
+    margin-top: 2rem !important;
+    margin-left: 8rem !important;
+  }
+
+  #section-5 {
+    height: 155rem !important;
+  }
+
+  .div-port-1 {
+    padding-left: 15px !important;
+  }
+
+  .div-port-2 {
+    margin-left: -2vh !important;
+  }
+
+  .div-port-3 {
+    margin-left: -2vh !important;
+  }
+
+  .div-port-4 {
+    margin-left: 2vh !important;
+  }
+
+  .div-port-5 {
+    margin-left: -2vh !important;
+  }
+
+  .div-port-6 {
+    margin-left: -2vh !important;
+  }
+
+  #button-i-1 {
+    margin-top: 428px !important;
+    padding-left: 19rem !important;
+  }
+
+  #button-i-2 {
+    margin-top: 428px !important;
+    margin-left: -19rem !important;
+  }
+
+  #section-7-card-1 {
+    padding-left: 27px !important;
+    margin-top: 1rem !important;
+  }
+
+  #section-7 {
+    height: 230vh !important;
+  }
+
+  #section-8 {
+    height: 80rem !important;
+  }
+
+  .social-ul {
+    top: 96% !important;
+    left: 45% !important;
+  }
+
+}
+
+
+@media (min-width: 393px) and (max-width: 851px) {
+
+  #nav-2 {
+    padding-left: 1rem !important;
+  }
+
+  #section-1 {
+    height: 55rem !important;
+    background-position: bottom !important;
+  }
+
+  .section-1-div-1 h1 {
+    font-size: 3rem !important;
+    margin-top: 29rem !important;
+  }
+
+  .section-1-div-2 h1 {
+    margin-left: 7rem !important;
+  }
+
+  .img-fluid {
+    width: 10rem !important;
+  }
+
+  #section-2-div-1 {
+    padding-left: 20px !important;
+  }
+
+  #section-3 {
+    height: 340vh !important;
+  }
+
+  .row-1 {
+    padding-left: 1rem !important;
+  }
+
+  .row-2 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-3 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-4 {
+    padding-left: 1rem !important;
+  }
+
+  .row-5 {
+    padding-left: 1rem !important;
+  }
+
+  .row-6 {
+    padding-left: 1rem !important;
+  }
+
+  #section-4 {
+    height: 70rem !important;
+  }
+
+  .section-4-div-1 {
+    padding-top: 5rem !important;
+    margin-top: 2rem !important;
+    padding-left: 11vh !important;
+  }
+
+  .section-4-div-2 {
+    padding-top: 3rem !important;
+    margin-top: 0rem !important;
+    margin-left: 10vh !important;
+  }
+
+  .section-4-div-3 {
+    padding-top: 3rem !important;
+    margin-left: 14vh !important;
+  }
+
+  .section-4-div-4 {
+    padding-top: 2rem !important;
+    margin-top: 2rem !important;
+    margin-left: 8rem !important;
+  }
+
+  #section-5 {
+    height: 155rem !important;
+  }
+
+  .div-port-1 {
+    padding-left: 15px !important;
+  }
+
+  .div-port-2 {
+    margin-left: -2vh !important;
+  }
+
+  .div-port-3 {
+    margin-left: -2vh !important;
+  }
+
+  .div-port-4 {
+    margin-left: 2vh !important;
+  }
+
+  .div-port-5 {
+    margin-left: -2vh !important;
+  }
+
+  .div-port-6 {
+    margin-left: -2vh !important;
+  }
+
+  #button-i-1 {
+    margin-top: 428px !important;
+    padding-left: 19rem !important;
+  }
+
+  #button-i-2 {
+    margin-top: 428px !important;
+    margin-left: -19rem !important;
+  }
+
+  #section-7-card-1 {
+    padding-left: 27px !important;
+    margin-top: 1rem !important;
+  }
+
+  #section-7 {
+    height: 230vh !important;
+  }
+
+  #section-8 {
+    height: 80rem !important;
+  }
+
+  .social-ul {
+    top: 96% !important;
+    left: 45% !important;
+  }
+
+}
+
+
+@media (min-width: 360px) and (max-width: 740px) {
+
+  #nav-2 {
+    padding-left: 1rem !important;
+  }
+
+  #section-1 {
+    height: 55rem !important;
+    background-position: bottom !important;
+  }
+
+  .section-1-div-1 h1 {
+    font-size: 6vh !important;
+    margin-top: 20rem !important;
+  }
+
+  .section-1-div-2 h1 {
+    margin-left: 5rem !important;
+  }
+
+  .img-fluid {
+    width: 10rem !important;
+  }
+
+  #section-2-div-1 {
+    padding-left: 20px !important;
+  }
+
+  #section-3 {
+    height: 385vh !important;
+  }
+
+  .row-1 {
+    padding-left: 1rem !important;
+  }
+
+  .row-2 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-3 {
+    padding-left: 1rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-4 {
+    padding-left: 1rem !important;
+  }
+
+  .row-5 {
+    padding-left: 1rem !important;
+  }
+
+  .row-6 {
+    padding-left: 1rem !important;
+  }
+
+  #section-4 {
+    height: 70rem !important;
+  }
+
+  .same-card-box {
+    width: 21rem !important;
+    margin-left: -1vh !important;
+  }
+
+  .section-4-div-1 {
+    padding-top: 5rem !important;
+    margin-top: 2rem !important;
+    padding-left: 11vh !important;
+  }
+
+  .section-4-div-2 {
+    padding-top: 3rem !important;
+    margin-top: 0rem !important;
+    margin-left: 10vh !important;
+  }
+
+  .section-4-div-3 {
+    padding-top: 3rem !important;
+    margin-left: 15vh !important;
+  }
+
+  .section-4-div-4 {
+    padding-top: 2rem !important;
+    margin-top: 2rem !important;
+    margin-left: 16vh !important;
+  }
+
+  #section-5 {
+    height: 155rem !important;
+  }
+
+  .div-port-1 {
+    padding-left: 0px !important;
+  }
+
+  .div-port-2 {
+    margin-left: -4vh !important;
+  }
+
+  .div-port-3 {
+    margin-left: -4vh !important;
+  }
+
+  .div-port-4 {
+    margin-left: 0vh !important;
+  }
+
+  .div-port-5 {
+    margin-left: -4vh !important;
+  }
+
+  .div-port-6 {
+    margin-left: -4vh !important;
+  }
+
+  #button-i-1 {
+    margin-top: 428px !important;
+    padding-left: 21rem !important;
+  }
+
+  #button-i-2 {
+    margin-top: 428px !important;
+    margin-left: -21rem !important;
+  }
+
+  #section-7-card-1 {
+    padding-left: 13px !important;
+    margin-top: 1rem !important;
+  }
+
+  #section-7 {
+    height: 255vh !important;
+  }
+
+  #section-8 {
+    height: 80rem !important;
+  }
+
+  .social-ul {
+    top: 96% !important;
+    left: 45% !important;
+  }
+
+}
+
+
+@media (min-width: 412px) and (max-width: 915px) {
+
+  #nav-2 {
+    padding-left: 1rem !important;
+  }
+
+  #section-1 {
+    height: 55rem !important;
+    background-position: bottom !important;
+  }
+
+  .section-1-div-1 h1 {
+    font-size: 3rem !important;
+    margin-top: 29rem !important;
+  }
+
+  .section-1-div-2 h1 {
+    margin-left: 7rem !important;
+  }
+
+  .img-fluid {
+    width: 10rem !important;
+  }
+
+  #section-2-div-1 {
+    padding-left: 20px !important;
+  }
+
+  #section-3 {
+    height: 315vh !important;
+  }
+
+  .row-1 {
+    padding-left: 3rem !important;
+  }
+
+  .row-2 {
+    padding-left: 3rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-3 {
+    padding-left: 3rem !important;
+    margin-top: 1rem !important;
+  }
+
+  .row-4 {
+    padding-left: 3rem !important;
+  }
+
+  .row-5 {
+    padding-left: 3rem !important;
+  }
+
+  .row-6 {
+    padding-left: 3rem !important;
+  }
+
+  #section-4 {
+    height: 70rem !important;
+  }
+
+  .same-card-box {
+    width: 21rem !important;
+    margin-left: -1vh !important;
+  }
+
+  .section-4-div-1 {
+    padding-top: 5rem !important;
+    margin-top: 2rem !important;
+    padding-left: 11vh !important;
+  }
+
+  .section-4-div-2 {
+    padding-top: 3rem !important;
+    margin-top: 0rem !important;
+    margin-left: 10vh !important;
+  }
+
+  .section-4-div-3 {
+    padding-top: 3rem !important;
+    margin-left: 14vh !important;
+  }
+
+  .section-4-div-4 {
+    padding-top: 2rem !important;
+    margin-top: 2rem !important;
+    margin-left: 15vh !important;
+  }
+
+  #section-5 {
+    height: 155rem !important;
+  }
+
+  .div-port-1 {
+    padding-left: 25px !important;
+  }
+
+  .div-port-2 {
+    margin-left: -3px !important;
+  }
+
+  .div-port-3 {
+    margin-left: -2px !important;
+  }
+
+  .div-port-4 {
+    margin-left: 20px !important;
+  }
+
+  .div-port-5 {
+    margin-left: -2px !important;
+  }
+
+  .div-port-6 {
+    margin-left: -2px !important;
+  }
+
+  #button-i-1 {
+    margin-top: 428px !important;
+    padding-left: 20rem !important;
+  }
+
+  #button-i-2 {
+    margin-top: 428px !important;
+    margin-left: -20rem !important;
+  }
+
+  #section-7-card-1 {
+    padding-left: 40px !important;
+    margin-top: 1rem !important;
+  }
+
+  #section-7 {
+    height: 210vh !important;
+  }
+
+  #section-8 {
+    height: 80rem !important;
+  }
+
+  .social-ul {
+    top: 96% !important;
+    left: 45% !important;
+  }
+
+}
