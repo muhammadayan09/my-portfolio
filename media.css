@@ -28,7 +28,7 @@
   }
 
   #section-3 {
-    height: 425vh !important;
+    height: 420vh !important;
   }
 
   .same-card-box {
@@ -143,9 +143,13 @@
   }
 
   .social-ul {
-    top: 95% !important;
+    top: 105% !important;
     left: 46% !important;
   }
+
+  .button-content a {
+    margin-left: 0rem !important;
+}
 
   #contact {
     height: 70rem !important;
@@ -620,7 +624,7 @@
   }
 
   #section-3 {
-    height: 385vh !important;
+    height: 385vh;
   }
 
   .row-1 {
@@ -733,7 +737,7 @@
   }
 
   .social-ul {
-    top: 96% !important;
+    top: 105% !important;
     left: 45% !important;
   }
 
@@ -885,5 +889,7 @@
     top: 96% !important;
     left: 45% !important;
   }
-
+  .button-content a {
+    margin-left: 0rem !important;
+}
 }
